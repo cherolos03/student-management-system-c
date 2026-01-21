@@ -31,4 +31,7 @@ This project allows users to manage student records efficiently with dynamic mem
 
 ---
 
-## 🗂️ Project Structure
+
+## 📸 State Machine Diagram
+
+![State Machine](docs/state_machine.jpg)
