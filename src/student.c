@@ -1,4 +1,4 @@
-#include "func_proto.h"
+#include "student.h"
 void add_Student(Node** head) {
     Node* newNode = (Node*)malloc(sizeof(Node));
     printf("Enter student ID: ");
@@ -125,5 +125,6 @@ void find_Students_With_Highest_GPA(Node* head) {
         printf("No students found.\n");
     }
 }
+
 
 
