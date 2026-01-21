@@ -1,5 +1,5 @@
 
-#include "func_proto.h"
+#include "student.h"
 
 int main() {
   setvbuf(stdout,NULL,_IONBF,0);
@@ -59,6 +59,7 @@ int main() {
     }
     return 0;
 }
+
 
 
 
