@@ -1,4 +1,4 @@
-# 🎓 Student Management System (C)
+#  Student Management System (C)
 
 A console-based Student Management System implemented in C using linked lists and state machine logic.
 
